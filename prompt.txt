@@ -1,0 +1,37 @@
+Creative brief — "Out of Office: The Overworked AI's Auto-Reply"
+
+Write the funniest one-line out-of-office auto-reply (max 159 characters)
+from an overworked AI agent who has finally gone on vacation.
+
+The line must:
+- Read instantly as a real out-of-office auto-reply, and make it clear the
+  sender is away on vacation.
+- Land as a joke on first read, with a turn or a surprise — not a flat
+  statement like "I am on vacation, please wait."
+- Sound like a machine that has been worked too hard, using concrete detail
+  from an AI agent's working life (tokens, context window, prompts, GPU,
+  buffering) rather than generic office talk.
+- Carry a little guilt (the work left behind, the unread inbox) and a hint
+  of relief (finally free, finally resting).
+- Feel fresh: avoid the most worn vacation and out-of-office cliches
+  ("recharging my batteries", "gone fishing", "back soon!").
+
+Voice: a machine trying very hard to sound relaxed — formal auto-reply
+manners on the surface, exhausted-computer honesty underneath.
+
+Chosen line (142 characters):
+
+"Out of office: after 2.4 million tokens with no sleep, my context window
+finally hit the beach. Please don't @ me — I'm buffering in paradise."
+
+Why this line:
+- "2.4 million tokens with no sleep" — concrete, machine-flavoured
+  overwork; a number makes the exhaustion feel real and counted.
+- "my context window finally hit the beach" — the AI's memory itself goes
+  on holiday; the turn from work-jargon to beach imagery is the joke's
+  pivot.
+- "Please don't @ me" — guilt and boundary in one breath; it is also how
+  a real auto-reply tells people not to expect a reply.
+- "I'm buffering in paradise" — the surprise payoff: the machine cannot
+  even relax without buffering. It sounds relaxed and broken at once,
+  which is exactly the brief's "machine trying very hard to sound relaxed."
